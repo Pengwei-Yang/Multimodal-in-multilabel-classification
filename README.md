@@ -38,7 +38,7 @@ https://drive.google.com/drive/folders/19fFLlOSbM8MxRT1guYArREwyQ3L2QM5j?usp=sha
 
 ### Authors
 * **Pengwei Yang** -*Main contributor*-
-（https://wwww.pengweiyang.com）
+（https://www.pengweiyang.com）
 
 * **Chongyangzi Teng** -*Minor contributor*- （https://www.researchgate.net/profile/Chongyangzi-Teng）
 * **Mengshen Guo** -*Minor contributor*- （https://www.researchgate.net/profile/Mengshen-Guo-3）
